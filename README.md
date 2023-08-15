@@ -1,7 +1,7 @@
 # RoboticsLabROSOpenCV
 
 <h2>Description</h2>e
-During my time at UT Austin, I participated in porjects regarding OpenCV and ROS in the context of robotics.<br />
+During my time at UT Austin, I participated in projects regarding OpenCV and ROS in the context of robotics.<br />
 
 
 <h2>Languages and Utilities Used</h2>
